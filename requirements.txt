@@ -11,4 +11,6 @@ tqdm
 pillow
 scipy>=1.14
 flash-attn-3 @ https://huggingface.co/alexnasa/flash-attn-3/resolve/main/128/flash_attn_3-3.0.0b1-cp39-abi3-linux_x86_64.whl
+
 bitsandbytes
+gradio
