@@ -13,6 +13,24 @@
 - **Queueing**: Up to 30 concurrent jobs with progress tracking.
 - **Memory Management**: Auto-clears cache after generations.
 
+---
+
+https://github.com/user-attachments/assets/9f60cd0a-561a-4b64-9d49-b937074c61bf
+
+https://github.com/user-attachments/assets/2fbeea62-6461-4e26-9a67-68be1740c7d4
+
+https://github.com/user-attachments/assets/c37ee162-42b3-40df-8383-1ba279929892
+
+https://github.com/user-attachments/assets/44363c53-967c-4f74-84f8-ee3a74172abc
+
+https://github.com/user-attachments/assets/9ba72aae-968a-4f33-9500-6ea488f1d18e
+
+https://github.com/user-attachments/assets/d22800d5-2de4-4f9d-ab46-565f307738c1
+
+https://github.com/user-attachments/assets/0df9cbab-44c7-4e2e-9e7f-1fcb11bac7aa
+
+---
+
 ## Prerequisites
 
 - Python 3.10 or higher.
